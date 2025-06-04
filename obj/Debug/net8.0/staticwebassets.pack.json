@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\Text.txt",
+      "PackagePath": "staticwebassets\\Text.txt"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\StaffAvatars\\1837f127-1ff1-472d-a33f-fb1af1301630_Starcraft-Wraith-attack-spaceship.jpg",
+      "PackagePath": "staticwebassets\\uploads\\StaffAvatars\\1837f127-1ff1-472d-a33f-fb1af1301630_Starcraft-Wraith-attack-spaceship.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\StaffAvatars\\3302ce61-030b-49a6-8078-123d4c33d813_Ảnh chụp màn hình 2025-04-16 124414.png",
+      "PackagePath": "staticwebassets\\uploads\\StaffAvatars\\3302ce61-030b-49a6-8078-123d4c33d813_Ảnh chụp màn hình 2025-04-16 124414.png"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\StaffAvatars\\35aa630e-abdf-4a4f-af55-a5d1a876e824_Starcraft-Wraith-attack-spaceship.jpg",
+      "PackagePath": "staticwebassets\\uploads\\StaffAvatars\\35aa630e-abdf-4a4f-af55-a5d1a876e824_Starcraft-Wraith-attack-spaceship.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\StaffAvatars\\9ecc2416-d3f9-46dd-bb57-ee1cf518e6ec_Starcraft-Wraith-attack-spaceship.jpg",
+      "PackagePath": "staticwebassets\\uploads\\StaffAvatars\\9ecc2416-d3f9-46dd-bb57-ee1cf518e6ec_Starcraft-Wraith-attack-spaceship.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\StaffAvatars\\a9699af9-c9f3-4a6e-a4ed-5fd4f97704b9_Starcraft-Wraith-attack-spaceship.jpg",
+      "PackagePath": "staticwebassets\\uploads\\StaffAvatars\\a9699af9-c9f3-4a6e-a4ed-5fd4f97704b9_Starcraft-Wraith-attack-spaceship.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\StaffAvatars\\c3ee97b5-bf27-4fb5-a554-90f087704193_Starcraft-Wraith-attack-spaceship.jpg",
+      "PackagePath": "staticwebassets\\uploads\\StaffAvatars\\c3ee97b5-bf27-4fb5-a554-90f087704193_Starcraft-Wraith-attack-spaceship.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\StaffAvatars\\eb5234e5-7750-416a-a82e-8360b08718fe_Starcraft-Wraith-attack-spaceship.jpg",
+      "PackagePath": "staticwebassets\\uploads\\StaffAvatars\\eb5234e5-7750-416a-a82e-8360b08718fe_Starcraft-Wraith-attack-spaceship.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\avatars\\334172b3-8fce-4483-bec3-36ef58390e4c_Starcraft-Wraith-attack-spaceship.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\334172b3-8fce-4483-bec3-36ef58390e4c_Starcraft-Wraith-attack-spaceship.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\avatars\\42830b54-4b8a-4fc5-8608-88d0938876e7_Picture.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\42830b54-4b8a-4fc5-8608-88d0938876e7_Picture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\avatars\\c00417a5-a1a8-4fca-9756-b50f4d5db610_Picture.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\c00417a5-a1a8-4fca-9756-b50f4d5db610_Picture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\rooms\\0a22ea17-01f4-4895-b6b1-497f9328f01a_Starcraft-Wraith-attack-spaceship.jpg",
+      "PackagePath": "staticwebassets\\uploads\\rooms\\0a22ea17-01f4-4895-b6b1-497f9328f01a_Starcraft-Wraith-attack-spaceship.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HotelDBMiddle.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HotelDBMiddle.props",
+      "PackagePath": "build\\HotelDBMiddle.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelDBMiddle.props",
+      "PackagePath": "buildMultiTargeting\\HotelDBMiddle.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HotelDBMiddle.props",
+      "PackagePath": "buildTransitive\\HotelDBMiddle.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
